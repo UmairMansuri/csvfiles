@@ -1,150 +1,150 @@
-﻿year,name,value,group
-2005," Aronian, Levon",2724, ARM
-2005," Topalov, Veselin",2788, BUL
-2005," Bacrot, Etienne",2729, FRA
-2005," Leko, Peter",2763, HUN
-2005," Polgar, Judit",2735, HUN
-2005," Anand, Viswanathan",2788, IND
-2005," Gelfand, Boris",2724, ISR
-2005," Kramnik, Vladimir",2744, RUS
-2005," Svidler, Peter",2738, RUS
-2005," Ivanchuk, Vassily",2752, UKR
-2005,"Kasparov, Garry",2812,RUS
-2006," Aronian, Levon",2761, ARM
-2006," Adams, Michael",2732, ENG
-2006," Leko, Peter",2738, HUN
-2006," Anand, Viswanathan",2779, IND
-2006," Gelfand, Boris",2729, ISR
-2006," Kramnik, Vladimir",2743, RUS
-2006," Morozevich, Alexander",2731, RUS
-2006," Svidler, Peter",2742, RUS
-2006," Ivanchuk, Vassily",2734, UKR
-2006,"Radjabov, Teimour",2728,AZE
-2006," Topalov, Veselin",2813,BUL
-2007," Aronian, Levon",2750, ARM
-2007," Mamedyarov, Shakhriyar",2757, AZE
-2007," Radjabov, Teimour",2746, AZE
-2007," Topalov, Veselin",2769, BUL
-2007," Leko, Peter",2751, HUN
-2007," Jakovenko, Dmitry",2735, RUS
-2007," Kramnik, Vladimir",2769, RUS
-2007," Morozevich, Alexander",2758, RUS
-2007," Ivanchuk, Vassily",2762, UKR
-2007," Shirov, Alexei",2735,ESP
-2007,"Anand, Viswanathan",2792,IND
-2008," Radjabov, Teimour",2744, AZE
-2008,"Mamedyarov, Shakhriyar",2742, AZE
-2008," Topalov, Veselin",2777, BUL
-2008,"Shirov, Alexei",2741, ESP
-2008," Leko, Peter",2741, HUN
-2008,"Anand, Viswanathan",2798, IND
-2008,"Carlsen, Magnus",2775, NOR
-2008," Kramnik, Vladimir",2788, RUS
-2008,"Ivanchuk, Vassily",2781, UKR
-2008," Morozevich, Alexander",2788,RUS
-2009,"Aronian, Levon",2768,ARM
-2009,"Radjabov, Teimour",2756,AZE
-2009,"Topalov, Veselin",2813,BUL
-2009,"Leko, Peter",2756,HUN
-2009,"Anand, Viswanathan",2788,IND
-2009,"Gelfand, Boris",2755,ISR
-2009,"Carlsen, Magnus",2772,NOR
-2009,"Jakovenko, Dmitry",2760,RUS
-2009,"Kramnik, Vladimir",2759,RUS
-2009,"Morozevich, Alexander",2751,RUS
-2010," Aronian, Levon",2781, ARM
-2010," Gashimov, Vugar",2759, AZE
-2010," Topalov, Veselin",2805, BUL
-2010," Wang, Yue",2749, CHN
-2010," Anand, Viswanathan",2790, IND
-2010," Gelfand, Boris",2761, ISR
-2010," Kramnik, Vladimir",2788, RUS
-2010," Svidler, Peter",2744, RUS
-2010," Ivanchuk, Vassily",2749, UKR
-2010,"Carlsen, Magnus",2810,NOR
-2011," Aronian, Levon",2820, ARM
-2011," Radjabov, Teimour",2784, AZE
-2011," Anand, Viswanathan",2799, IND
-2011," Caruana, Fabiano",2767, ITA
-2011," Karjakin, Sergey",2766, RUS
-2011," Kramnik, Vladimir",2801, RUS
-2011," Morozevich, Alexander",2765, RUS
-2011," Ivanchuk, Vassily",2764, UKR
-2011," Nakamura, Hikaru",2771, USA
-2011,"Carlsen, Magnus",2835,NOR
-2012," Aronian, Levon",2825, ARM
-2012," Radjabov, Teimour",2784, AZE
-2012," Anand, Viswanathan",2791, IND
-2012," Caruana, Fabiano",2770, ITA
-2012," Karjakin, Sergey",2779, RUS
-2012," Kramnik, Vladimir",2801, RUS
-2012," Morozevich, Alexander",2769, RUS
-2012," Ivanchuk, Vassily",2764, UKR
-2012," Nakamura, Hikaru",2775, USA
-2012,"Carlsen, Magnus",2835,NOR
-2012," Grischuk, Alexander",2761,RUS
-2014," Aronian, Levon",2815, ARM
-2014," Topalov, Veselin",2772, BUL
-2014," Dominguez Perez, Leinier",2768, CUB
-2014," Anand, Viswanathan",2785, IND
-2014," Caruana, Fabiano",2783, ITA
-2014,"Carlsen, Magnus",2882, NOR
-2014," Grischuk, Alexander",2792, RUS
-2014," Karjakin, Sergey",2770, RUS
-2014," Kramnik, Vladimir",2783, RUS
-2014," Nakamura, Hikaru",2772, USA
-2014,"  Mamedyarov, Shakhriyar",2760,AZE
-2015," Aronian, Levon",2765, ARM
-2015," Topalov, Veselin",2816, BUL
-2015," Anand, Viswanathan",2816, IND
-2015," Giri, Anish",2791, NED
-2015," Grischuk, Alexander",2771, RUS
-2015," Kramnik, Vladimir",2783, RUS
-2015," Caruana, Fabiano",2797, USA
-2015," Nakamura, Hikaru",2814, USA
-2015," So, Wesley",2780, USA
-2015," Carlsen, Magnus",2853,NOR
-2015," Jakovenko, Dmitry",2757,RUS
-2016," Aronian, Levon",2792, ARM
-2016," Topalov, Veselin",2780, BUL
-2016," Vachier-Lagrave, Maxime",2785, FRA
-2016," Anand, Viswanathan",2784, IND
-2016," Giri, Anish",2798, NED
-2016," Kramnik, Vladimir",2801, RUS
-2016," Caruana, Fabiano",2787, USA
-2016," Nakamura, Hikaru",2787, USA
-2016," So, Wesley",2773, USA
-2016,"Carlsen, Magnus",2844,NOR
-2016," Karjakin, Sergey",2769,RUS
-2017,Shakhriyar Mamedyarov,2820,""
-2017,Aronian Levon,2780,ARM
-2017,"Vachier-Lagrave, Maxime",2796,FRA
-2017,"Anand, Viswanathan",2786,IND
-2017,"Giri, Anish",2773,NED
-2017,"Carlsen, Magnus",2840,NOR
-2017,KarJakin  Sergey,2785,RUS
-2017,"Kramnik, Vladimir",2811,RUS
-2017,"Caruana, Fabiano",2827,USA
-2017,Nakamura Hikaru,2785,USA
-2017,So Wesley,2808,USA
-2018,Aronian Levon,2858, ARM
-2018,Teterev Vitaly,2397,BLR
-2018,Zhigalko Sergei,2693,BLR
-2018,Bosiocic Marin,2653,CRO
-2018,Shirov Alexei,2699,ESP
-2018,Firouzja Alireza,2667,IRI
-2018,Duda Jan-Krzysztof,2694,POL
-2018,Andreikin Dmitry,2777,RUS
-2018,Grigoriants Sergey,2626,RUS
-2018,Popov Ivan,2560,RUS
-2018,Svidler Peter,2770,RUS
-2019,"Aronian, Levon",2765, ARM
-2019,"Mamedyarov, Shakhriyar",2796,AZE
-2019,"Ding, Liren",2806,CHN
-2019,"Vachier-Lagrave, Maxime",2771,FRA
-2019,"Anand, Viswanathan",2969,IND
-2019,"Giri, Anish",2797,NED
-2019,"Carlsen, Magnus",2845,NOR
-2019,"Grischuk, Alexander",2771,RUS
-2019,"Nepomniachtchi, Ian",2775,RUS
-2019,"Caruana, Fabiano",2810,USA
+﻿name,group,year,value,subGroup
+"  Mamedyarov, Shakhriyar",AZE,2014,2760,AZE
+" Grischuk, Alexander",RUS,2012,2761,RUS
+" Jakovenko, Dmitry",RUS,2015,2757,RUS
+" Shirov, Alexei",ESP,2007,2735,ESP
+" Adams, Michael", ENG,2006,2732, ENG
+" Anand, Viswanathan", IND,2005,2788, IND
+" Anand, Viswanathan", IND,2006,2779, IND
+" Anand, Viswanathan", IND,2010,2790, IND
+" Anand, Viswanathan", IND,2011,2799, IND
+" Anand, Viswanathan", IND,2012,2791, IND
+" Anand, Viswanathan", IND,2014,2785, IND
+" Anand, Viswanathan", IND,2015,2816, IND
+" Anand, Viswanathan", IND,2016,2784, IND
+" Aronian, Levon", ARM,2005,2724, ARM
+" Aronian, Levon", ARM,2006,2761, ARM
+" Aronian, Levon", ARM,2007,2750, ARM
+" Aronian, Levon", ARM,2010,2781, ARM
+" Aronian, Levon", ARM,2011,2820, ARM
+" Aronian, Levon", ARM,2012,2825, ARM
+" Aronian, Levon", ARM,2014,2815, ARM
+" Aronian, Levon", ARM,2015,2765, ARM
+" Aronian, Levon", ARM,2016,2792, ARM
+" Bacrot, Etienne", FRA,2005,2729, FRA
+" Carlsen, Magnus",NOR,2015,2853,NOR
+" Caruana, Fabiano", ITA,2011,2767, ITA
+" Caruana, Fabiano", ITA,2012,2770, ITA
+" Caruana, Fabiano", ITA,2014,2783, ITA
+" Caruana, Fabiano", USA,2015,2797, USA
+" Caruana, Fabiano", USA,2016,2787, USA
+" Dominguez Perez, Leinier", CUB,2014,2768, CUB
+" Gashimov, Vugar", AZE,2010,2759, AZE
+" Gelfand, Boris", ISR,2005,2724, ISR
+" Gelfand, Boris", ISR,2006,2729, ISR
+" Gelfand, Boris", ISR,2010,2761, ISR
+" Giri, Anish", NED,2015,2791, NED
+" Giri, Anish", NED,2016,2798, NED
+" Grischuk, Alexander", RUS,2014,2792, RUS
+" Grischuk, Alexander", RUS,2015,2771, RUS
+" Ivanchuk, Vassily", UKR,2005,2752, UKR
+" Ivanchuk, Vassily", UKR,2006,2734, UKR
+" Ivanchuk, Vassily", UKR,2007,2762, UKR
+" Ivanchuk, Vassily", UKR,2010,2749, UKR
+" Ivanchuk, Vassily", UKR,2011,2764, UKR
+" Ivanchuk, Vassily", UKR,2012,2764, UKR
+" Jakovenko, Dmitry", RUS,2007,2735, RUS
+" Karjakin, Sergey", RUS,2011,2766, RUS
+" Karjakin, Sergey", RUS,2012,2779, RUS
+" Karjakin, Sergey", RUS,2014,2770, RUS
+" Karjakin, Sergey",RUS,2016,2769,RUS
+" Kramnik, Vladimir", RUS,2005,2744, RUS
+" Kramnik, Vladimir", RUS,2006,2743, RUS
+" Kramnik, Vladimir", RUS,2007,2769, RUS
+" Kramnik, Vladimir", RUS,2008,2788, RUS
+" Kramnik, Vladimir", RUS,2010,2788, RUS
+" Kramnik, Vladimir", RUS,2011,2801, RUS
+" Kramnik, Vladimir", RUS,2012,2801, RUS
+" Kramnik, Vladimir", RUS,2014,2783, RUS
+" Kramnik, Vladimir", RUS,2015,2783, RUS
+" Kramnik, Vladimir", RUS,2016,2801, RUS
+" Leko, Peter", HUN,2005,2763, HUN
+" Leko, Peter", HUN,2006,2738, HUN
+" Leko, Peter", HUN,2007,2751, HUN
+" Leko, Peter", HUN,2008,2741, HUN
+" Mamedyarov, Shakhriyar", AZE,2007,2757, AZE
+" Morozevich, Alexander", RUS,2006,2731, RUS
+" Morozevich, Alexander", RUS,2007,2758, RUS
+" Morozevich, Alexander", RUS,2011,2765, RUS
+" Morozevich, Alexander", RUS,2012,2769, RUS
+" Morozevich, Alexander",RUS,2008,2788,RUS
+" Nakamura, Hikaru", USA,2011,2771, USA
+" Nakamura, Hikaru", USA,2012,2775, USA
+" Nakamura, Hikaru", USA,2014,2772, USA
+" Nakamura, Hikaru", USA,2015,2814, USA
+" Nakamura, Hikaru", USA,2016,2787, USA
+" Polgar, Judit", HUN,2005,2735, HUN
+" Radjabov, Teimour", AZE,2007,2746, AZE
+" Radjabov, Teimour", AZE,2008,2744, AZE
+" Radjabov, Teimour", AZE,2011,2784, AZE
+" Radjabov, Teimour", AZE,2012,2784, AZE
+" So, Wesley", USA,2015,2780, USA
+" So, Wesley", USA,2016,2773, USA
+" Svidler, Peter", RUS,2005,2738, RUS
+" Svidler, Peter", RUS,2006,2742, RUS
+" Svidler, Peter", RUS,2010,2744, RUS
+" Topalov, Veselin", BUL,2005,2788, BUL
+" Topalov, Veselin", BUL,2007,2769, BUL
+" Topalov, Veselin", BUL,2008,2777, BUL
+" Topalov, Veselin", BUL,2010,2805, BUL
+" Topalov, Veselin", BUL,2014,2772, BUL
+" Topalov, Veselin", BUL,2015,2816, BUL
+" Topalov, Veselin", BUL,2016,2780, BUL
+" Topalov, Veselin",BUL,2006,2813,BUL
+" Vachier-Lagrave, Maxime", FRA,2016,2785, FRA
+" Wang, Yue", CHN,2010,2749, CHN
+"Anand, Viswanathan", IND,2008,2798, IND
+"Anand, Viswanathan",IND,2007,2792,IND
+"Anand, Viswanathan",IND,2009,2788,IND
+"Anand, Viswanathan",IND,2017,2786,IND
+"Anand, Viswanathan",IND,2019,2969,IND
+Andreikin Dmitry,RUS,2018,2777,RUS
+Aronian Levon, ARM,2018,2858, ARM
+Aronian Levon,ARM,2017,2780,ARM
+"Aronian, Levon", ARM,2019,2765, ARM
+"Aronian, Levon",ARM,2009,2768,ARM
+Bosiocic Marin,CRO,2018,2653,CRO
+"Carlsen, Magnus", NOR,2008,2775, NOR
+"Carlsen, Magnus", NOR,2014,2882, NOR
+"Carlsen, Magnus",NOR,2009,2772,NOR
+"Carlsen, Magnus",NOR,2010,2810,NOR
+"Carlsen, Magnus",NOR,2011,2835,NOR
+"Carlsen, Magnus",NOR,2012,2835,NOR
+"Carlsen, Magnus",NOR,2016,2844,NOR
+"Carlsen, Magnus",NOR,2017,2840,NOR
+"Carlsen, Magnus",NOR,2019,2845,NOR
+"Caruana, Fabiano",USA,2017,2827,USA
+"Caruana, Fabiano",USA,2019,2810,USA
+"Ding, Liren",CHN,2019,2806,CHN
+Duda Jan-Krzysztof,POL,2018,2694,POL
+Firouzja Alireza,IRI,2018,2667,IRI
+"Gelfand, Boris",ISR,2009,2755,ISR
+"Giri, Anish",NED,2017,2773,NED
+"Giri, Anish",NED,2019,2797,NED
+Grigoriants Sergey,RUS,2018,2626,RUS
+"Grischuk, Alexander",RUS,2019,2771,RUS
+"Ivanchuk, Vassily", UKR,2008,2781, UKR
+"Jakovenko, Dmitry",RUS,2009,2760,RUS
+KarJakin  Sergey,RUS,2017,2785,RUS
+"Kasparov, Garry",RUS,2005,2812,RUS
+"Kramnik, Vladimir",RUS,2009,2759,RUS
+"Kramnik, Vladimir",RUS,2017,2811,RUS
+"Leko, Peter",HUN,2009,2756,HUN
+"Mamedyarov, Shakhriyar", AZE,2008,2742, AZE
+"Mamedyarov, Shakhriyar",AZE,2019,2796,AZE
+"Morozevich, Alexander",RUS,2009,2751,RUS
+Nakamura Hikaru,USA,2017,2785,USA
+"Nepomniachtchi, Ian",RUS,2019,2775,RUS
+Popov Ivan,RUS,2018,2560,RUS
+"Radjabov, Teimour",AZE,2006,2728,AZE
+"Radjabov, Teimour",AZE,2009,2756,AZE
+Shakhriyar Mamedyarov,"",2017,2820,""
+Shirov Alexei,ESP,2018,2699,ESP
+"Shirov, Alexei", ESP,2008,2741, ESP
+So Wesley,USA,2017,2808,USA
+Svidler Peter,RUS,2018,2770,RUS
+Teterev Vitaly,BLR,2018,2397,BLR
+"Topalov, Veselin",BUL,2009,2813,BUL
+"Vachier-Lagrave, Maxime",FRA,2017,2796,FRA
+"Vachier-Lagrave, Maxime",FRA,2019,2771,FRA
+Zhigalko Sergei,BLR,2018,2693,BLR
